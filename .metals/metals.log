@@ -1,0 +1,405 @@
+2026.01.17 21:50:52 INFO  Started: Metals version 1.6.4 in folders 'C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd' for client Visual Studio Code 1.108.1.
+2026.01.17 21:50:52 INFO  time: initialize in 0.15s
+2026.01.17 21:50:54 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.17 21:50:55 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:50:56 WARN  no build tool detected in workspace 'C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.01.17 21:50:56 WARN  Build server is not auto-connectable.
+2026.01.17 21:50:57 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java
+2026.01.17 21:50:57 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:50:58 INFO  time: code lens generation in 1.95s
+2026.01.17 21:51:04 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:08 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:20 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java
+2026.01.17 21:51:20 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:20 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+ene 17, 2026 9:51:20 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2026.01.17 21:51:21 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:22 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:22 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:22 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:22 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:23 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:23 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:23 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:23 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:23 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:23 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:24 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:24 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:24 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:25 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:24 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:24 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:24 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:24 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:25 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:26 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:25 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:25 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:26 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java
+2026.01.17 21:51:26 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:26 INFO  Created report: Optional[file:///C:/PCD_Tercero/AERON/AERON/aeronpcd/aeronpcd/src/main/Main.java]
+2026.01.17 21:51:26 INFO  QDox parse error in file:///C:/PCD_Tercero/AERON/AERON/aeronpcd/aeronpcd/src/main/Main.java (full report at: "C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\.metals\.reports\metals-full\2026-01-17\r_qdox-error_21-51-26-845.md")
+2026.01.17 21:51:25 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:25 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:27 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:27 WARN  Running javac-semanticdb failed for file:///C:/PCD_Tercero/AERON/AERON/aeronpcd/aeronpcd/src/main/Main.java. Output:
+
+2026.01.17 21:51:27 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:27 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:27 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:28 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:28 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+ene 17, 2026 9:51:28 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 71
+2026.01.17 21:51:28 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:28 WARN  Running javac-semanticdb failed for file:///C:/PCD_Tercero/AERON/AERON/aeronpcd/aeronpcd/src/main/Main.java. Output:
+
+2026.01.17 21:51:28 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java
+2026.01.17 21:51:28 INFO  QDox parse error in file:///C:/PCD_Tercero/AERON/AERON/aeronpcd/aeronpcd/src/main/Main.java (full report at: "C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\.metals\.reports\metals-full\2026-01-17\r_qdox-error_21-51-26-845.md")
+2026.01.17 21:51:28 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:28 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:28 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:29 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:29 WARN  Running javac-semanticdb failed for file:///C:/PCD_Tercero/AERON/AERON/aeronpcd/aeronpcd/src/main/Main.java. Output:
+
+2026.01.17 21:51:29 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:29 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:29 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:29 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java
+2026.01.17 21:51:30 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:30 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:30 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:30 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:30 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:31 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:31 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:31 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:31 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:32 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java
+2026.01.17 21:51:32 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:33 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java
+2026.01.17 21:51:33 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:33 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:34 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:34 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:34 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:34 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:34 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:34 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:35 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:35 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:35 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:36 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:35 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:35 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:35 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:35 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:35 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:37 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:37 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:37 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:37 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:37 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java
+2026.01.17 21:51:38 INFO  QDox parse error in file:///C:/PCD_Tercero/AERON/AERON/aeronpcd/aeronpcd/src/main/Main.java (full report at: "C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\.metals\.reports\metals-full\2026-01-17\r_qdox-error_21-51-26-845.md")
+2026.01.17 21:51:38 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:39 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:39 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:39 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:39 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:39 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:40 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:39 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:40 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+ene 17, 2026 9:51:40 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 155
+2026.01.17 21:51:40 WARN  Running javac-semanticdb failed for file:///C:/PCD_Tercero/AERON/AERON/aeronpcd/aeronpcd/src/main/Main.java. Output:
+
+2026.01.17 21:51:40 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:40 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:40 WARN  Running javac-semanticdb failed for file:///C:/PCD_Tercero/AERON/AERON/aeronpcd/aeronpcd/src/main/Main.java. Output:
+
+2026.01.17 21:51:40 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:40 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:40 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java
+2026.01.17 21:51:40 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:41 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:41 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:41 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:41 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:41 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:41 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:42 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java
+2026.01.17 21:51:42 INFO  QDox parse error in file:///C:/PCD_Tercero/AERON/AERON/aeronpcd/aeronpcd/src/main/Main.java (full report at: "C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\.metals\.reports\metals-full\2026-01-17\r_qdox-error_21-51-26-845.md")
+2026.01.17 21:51:42 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:42 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:42 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:42 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+ene 17, 2026 9:51:42 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 181
+2026.01.17 21:51:42 WARN  Running javac-semanticdb failed for file:///C:/PCD_Tercero/AERON/AERON/aeronpcd/aeronpcd/src/main/Main.java. Output:
+
+2026.01.17 21:51:42 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:42 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:43 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:43 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java
+2026.01.17 21:51:43 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:43 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:43 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:43 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:44 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:44 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:44 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:44 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:45 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:45 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java
+2026.01.17 21:51:45 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:51:49 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java
+2026.01.17 21:51:49 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:51:49 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:51:49 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:51:50 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Runway.java
+2026.01.17 21:51:49 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Runway.java. Using fallback presentation compiler.
+2026.01.17 21:51:50 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Runway.java. Using fallback presentation compiler.
+2026.01.17 21:51:50 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Runway.java. Using fallback presentation compiler.
+2026.01.17 21:51:50 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java
+2026.01.17 21:51:50 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:50 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:50 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:51 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:51 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:51 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:51 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:51 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:51 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:52 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:53 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:53 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:53 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+ene 17, 2026 9:51:53 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 239
+2026.01.17 21:51:53 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:53 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:54 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:54 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:54 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:54 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:54 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:54 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:54 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:54 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:55 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:54 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:54 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:54 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:55 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java
+2026.01.17 21:51:55 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:55 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:55 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:55 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:55 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:55 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:56 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:57 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:56 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:57 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:57 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:57 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:57 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:58 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:58 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:58 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:51:58 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java
+2026.01.17 21:51:58 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:52:02 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java
+2026.01.17 21:52:02 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:02 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:03 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:03 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:03 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:03 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:03 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:04 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:04 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:04 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:05 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:05 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:09 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:09 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:10 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:09 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:10 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java
+2026.01.17 21:52:10 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:11 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:11 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:11 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:12 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:12 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:12 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:12 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:12 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:14 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:14 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:22 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:22 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:22 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:22 WARN  Running javac-semanticdb failed for file:///C:/PCD_Tercero/AERON/AERON/aeronpcd/aeronpcd/src/main/Main.java. Output:
+
+2026.01.17 21:52:22 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:22 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:23 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java
+2026.01.17 21:52:23 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:23 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:23 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\main\Main.java. Using fallback presentation compiler.
+2026.01.17 21:52:25 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java
+2026.01.17 21:52:25 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:25 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:26 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:25 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:26 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:26 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:27 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:29 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:30 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:30 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:31 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:30 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:31 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java
+2026.01.17 21:52:31 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:30 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:32 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java
+2026.01.17 21:52:32 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:32 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:32 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:32 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:32 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:32 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:32 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:34 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:34 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:35 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:35 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:35 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:35 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:37 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Gate.java
+2026.01.17 21:52:37 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Gate.java. Using fallback presentation compiler.
+2026.01.17 21:52:37 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Gate.java. Using fallback presentation compiler.
+2026.01.17 21:52:37 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Gate.java. Using fallback presentation compiler.
+2026.01.17 21:52:37 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Gate.java. Using fallback presentation compiler.
+2026.01.17 21:52:38 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Gate.java. Using fallback presentation compiler.
+2026.01.17 21:52:38 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Gate.java. Using fallback presentation compiler.
+2026.01.17 21:52:39 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Gate.java. Using fallback presentation compiler.
+2026.01.17 21:52:39 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Gate.java. Using fallback presentation compiler.
+2026.01.17 21:52:40 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Gate.java
+2026.01.17 21:52:40 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Gate.java. Using fallback presentation compiler.
+2026.01.17 21:52:40 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Runway.java
+2026.01.17 21:52:39 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Runway.java. Using fallback presentation compiler.
+2026.01.17 21:52:40 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Runway.java. Using fallback presentation compiler.
+2026.01.17 21:52:41 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Runway.java. Using fallback presentation compiler.
+2026.01.17 21:52:41 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Runway.java. Using fallback presentation compiler.
+2026.01.17 21:52:41 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Runway.java. Using fallback presentation compiler.
+2026.01.17 21:52:41 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Runway.java. Using fallback presentation compiler.
+2026.01.17 21:52:41 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Runway.java. Using fallback presentation compiler.
+2026.01.17 21:52:42 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Runway.java. Using fallback presentation compiler.
+2026.01.17 21:52:42 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:52:42 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java
+2026.01.17 21:52:42 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:52:43 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Runway.java
+2026.01.17 21:52:43 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:52:43 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java
+2026.01.17 21:52:44 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:52:44 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:52:44 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:52:45 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:52:46 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:52:45 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:52:46 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java
+2026.01.17 21:52:46 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:52:46 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java
+2026.01.17 21:52:46 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:52:48 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:52:48 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:52:48 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:52:48 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:52:48 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:52:49 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:52:49 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:52:50 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:52:50 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:52:51 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:52:54 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:54 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java
+2026.01.17 21:52:54 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:54 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:54 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\Plane.java. Using fallback presentation compiler.
+2026.01.17 21:52:55 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\concurrent\ControlTowerConcurrent.java
+2026.01.17 21:52:55 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\concurrent\ControlTowerConcurrent.java. Using fallback presentation compiler.
+2026.01.17 21:52:56 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\concurrent\ControlTowerConcurrent.java. Using fallback presentation compiler.
+2026.01.17 21:52:55 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\concurrent\ControlTowerConcurrent.java. Using fallback presentation compiler.
+2026.01.17 21:52:57 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\concurrent\ControlTowerConcurrent.java. Using fallback presentation compiler.
+2026.01.17 21:52:57 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\concurrent\ControlTowerConcurrent.java. Using fallback presentation compiler.
+2026.01.17 21:52:57 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\concurrent\ControlTowerConcurrent.java. Using fallback presentation compiler.
+2026.01.17 21:52:58 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\concurrent\ControlTowerConcurrent.java. Using fallback presentation compiler.
+2026.01.17 21:52:58 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\concurrent\ControlTowerConcurrent.java. Using fallback presentation compiler.
+2026.01.17 21:52:58 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\concurrent\ControlTowerConcurrent.java
+2026.01.17 21:52:58 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\concurrent\ControlTowerConcurrent.java. Using fallback presentation compiler.
+2026.01.17 21:52:58 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\concurrent\ControlTowerConcurrent.java. Using fallback presentation compiler.
+2026.01.17 21:53:00 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\concurrent\ControlTowerConcurrent.java. Using fallback presentation compiler.
+2026.01.17 21:53:00 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\concurrent\ControlTowerConcurrent.java. Using fallback presentation compiler.
+2026.01.17 21:53:01 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\concurrent\ControlTowerConcurrent.java
+2026.01.17 21:53:01 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\concurrent\ControlTowerConcurrent.java. Using fallback presentation compiler.
+2026.01.17 21:53:00 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\concurrent\ControlTowerConcurrent.java. Using fallback presentation compiler.
+2026.01.17 21:53:02 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\concurrent\ControlTowerConcurrent.java. Using fallback presentation compiler.
+2026.01.17 21:53:03 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\model\concurrent\ControlTowerConcurrent.java. Using fallback presentation compiler.
+2026.01.17 21:53:04 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java
+2026.01.17 21:53:03 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:53:04 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:53:03 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:53:04 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:53:06 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:53:06 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:53:06 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:53:06 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:53:10 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java
+2026.01.17 21:53:10 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:53:10 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:53:11 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Gate.java
+2026.01.17 21:53:11 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Gate.java. Using fallback presentation compiler.
+2026.01.17 21:53:11 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Gate.java. Using fallback presentation compiler.
+2026.01.17 21:53:12 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java
+2026.01.17 21:53:11 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:53:12 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:53:14 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:53:16 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:53:16 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:53:19 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:55:57 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:55:57 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:55:57 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:55:57 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:55:58 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:55:58 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:55:58 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:55:59 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:55:59 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:56:53 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:56:53 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:56:53 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:56:56 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:56:56 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:56:56 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:56:56 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:57:00 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:57:03 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:57:03 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java
+2026.01.17 21:57:03 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:57:03 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\Ventana.java. Using fallback presentation compiler.
+2026.01.17 21:57:05 WARN  no build target for: C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java
+2026.01.17 21:57:05 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:57:05 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:57:06 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 21:57:06 INFO  no build target found for C:\PCD_Tercero\AERON\AERON\aeronpcd\aeronpcd\src\util\AirportState.java. Using fallback presentation compiler.
+2026.01.17 22:07:52 INFO  Shutting down server
+2026.01.17 22:07:52 INFO  shutting down Metals
+2026.01.17 22:07:52 INFO  Exiting server

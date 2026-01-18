@@ -1,0 +1,421 @@
+====================================================================
+   AERON AIRPORT SIMULATOR - BITÁCORA DE VUELO
+====================================================================
+ Fecha inicio: Sun Jan 18 19:18:45 CET 2026
+ Modo:         CONCURRENT
+ Configuración: 20 Aviones | 3 Pistas | 5 Puertas
+ Operarios:    5
+====================================================================
+
+[19:18:46.098] [IBE-001     ] IBE-001: Solicitando pista y puerta...
+[19:18:46.104] [TORRE       ] AUTORIZADO ATERRIZAJE: IBE-001
+[19:18:46.104] [TORRE       ] Recibida petición: LANDING [IBE-001]
+[19:18:46.105] [IBE-001     ] IBE-001: Aterrizando en Pista P1...
+[19:18:46.208] [IBE-001     ] IBE-001: Aterrizado. Liberando pista y yendo a Puerta G1
+[19:18:46.209] [TORRE       ] Recibida petición: LANDED [IBE-001]
+[19:18:46.209] [TORRE       ] Pista liberada por IBE-001
+[19:18:46.210] [IBE-001     ] IBE-001: En puerta Puerta G1. Subiendo Pasajero PAX-IBE-001
+[19:18:46.210] [TORRE       ] Recibida petición: BOARDING [IBE-001]
+[19:18:46.241] [IBE-002     ] IBE-002: Solicitando pista y puerta...
+[19:18:46.241] [TORRE       ] Recibida petición: LANDING [IBE-002]
+[19:18:46.241] [TORRE       ] AUTORIZADO ATERRIZAJE: IBE-002
+[19:18:46.245] [IBE-002     ] IBE-002: Aterrizando en Pista P1...
+[19:18:46.298] [IBE-003     ] IBE-003: Solicitando pista y puerta...
+[19:18:46.298] [TORRE       ] Recibida petición: LANDING [IBE-003]
+[19:18:46.299] [TORRE       ] AUTORIZADO ATERRIZAJE: IBE-003
+[19:18:46.300] [IBE-003     ] IBE-003: Aterrizando en Pista P2...
+[19:18:46.348] [IBE-002     ] IBE-002: Aterrizado. Liberando pista y yendo a Puerta G2
+[19:18:46.348] [TORRE       ] Recibida petición: LANDED [IBE-002]
+[19:18:46.400] [IBE-004     ] IBE-004: Solicitando pista y puerta...
+[19:18:46.400] [TORRE       ] Recibida petición: LANDING [IBE-004]
+[19:18:46.403] [IBE-003     ] IBE-003: Aterrizado. Liberando pista y yendo a Puerta G3
+[19:18:46.404] [TORRE       ] Recibida petición: LANDED [IBE-003]
+[19:18:46.405] [TORRE       ] Pista liberada por IBE-002
+[19:18:46.406] [IBE-002     ] IBE-002: En puerta Puerta G2. Subiendo Pasajero PAX-IBE-002
+[19:18:46.406] [TORRE       ] Recibida petición: BOARDING [IBE-002]
+[19:18:46.501] [IBE-005     ] IBE-005: Solicitando pista y puerta...
+[19:18:46.501] [TORRE       ] Recibida petición: LANDING [IBE-005]
+[19:18:46.509] [TORRE       ] AUTORIZADO ATERRIZAJE: IBE-004
+[19:18:46.510] [IBE-004     ] IBE-004: Aterrizando en Pista P1...
+[19:18:46.511] [IBE-001     ] IBE-001: Embarque finalizado. Solicitando salida.
+[19:18:46.511] [TORRE       ] Recibida petición: BOARDED [IBE-001]
+[19:18:46.512] [TORRE       ] Pista liberada por IBE-003
+[19:18:46.512] [IBE-003     ] IBE-003: En puerta Puerta G3. Subiendo Pasajero PAX-IBE-003
+[19:18:46.513] [TORRE       ] Recibida petición: BOARDING [IBE-003]
+[19:18:46.600] [TORRE       ] AUTORIZADO ATERRIZAJE: IBE-005
+[19:18:46.602] [IBE-005     ] IBE-005: Aterrizando en Pista P2...
+[19:18:46.603] [IBE-006     ] IBE-006: Solicitando pista y puerta...
+[19:18:46.603] [TORRE       ] Recibida petición: LANDING [IBE-006]
+[19:18:46.615] [IBE-004     ] IBE-004: Aterrizado. Liberando pista y yendo a Puerta G4
+[19:18:46.615] [TORRE       ] Recibida petición: LANDED [IBE-004]
+[19:18:46.703] [IBE-005     ] IBE-005: Aterrizado. Liberando pista y yendo a Puerta G5
+[19:18:46.703] [TORRE       ] Recibida petición: LANDED [IBE-005]
+[19:18:46.705] [IBE-007     ] IBE-007: Solicitando pista y puerta...
+[19:18:46.705] [TORRE       ] Recibida petición: LANDING [IBE-007]
+[19:18:46.706] [TORRE       ] Puerta liberada por IBE-001
+[19:18:46.707] [IBE-001     ] IBE-001: Solicitando pista para despegue...
+[19:18:46.707] [TORRE       ] Recibida petición: TAKEOFF [IBE-001]
+[19:18:46.812] [IBE-008     ] IBE-008: Solicitando pista y puerta...
+[19:18:46.814] [TORRE       ] Recibida petición: LANDING [IBE-008]
+[19:18:46.814] [TORRE       ] AUTORIZADO ATERRIZAJE: IBE-006
+[19:18:46.817] [IBE-006     ] IBE-006: Aterrizando en Pista P3...
+[19:18:46.843] [TORRE       ] Pista liberada por IBE-004
+[19:18:46.844] [IBE-002     ] IBE-002: Embarque finalizado. Solicitando salida.
+[19:18:46.845] [TORRE       ] Recibida petición: BOARDED [IBE-002]
+[19:18:46.845] [IBE-004     ] IBE-004: En puerta Puerta G4. Subiendo Pasajero PAX-IBE-004
+[19:18:46.846] [TORRE       ] Recibida petición: BOARDING [IBE-004]
+[19:18:46.902] [TORRE       ] Pista liberada por IBE-005
+[19:18:46.903] [IBE-005     ] IBE-005: En puerta Puerta G5. Subiendo Pasajero PAX-IBE-005
+[19:18:46.904] [TORRE       ] Recibida petición: BOARDING [IBE-005]
+[19:18:46.909] [IBE-009     ] IBE-009: Solicitando pista y puerta...
+[19:18:46.909] [TORRE       ] Recibida petición: LANDING [IBE-009]
+[19:18:46.919] [IBE-006     ] IBE-006: Aterrizado. Liberando pista y yendo a Puerta G1
+[19:18:46.919] [TORRE       ] Recibida petición: LANDED [IBE-006]
+[19:18:47.013] [TORRE       ] ESPERA ATERRIZAJE: IBE-007
+[19:18:47.020] [IBE-010     ] IBE-010: Solicitando pista y puerta...
+[19:18:47.021] [TORRE       ] Recibida petición: LANDING [IBE-010]
+[19:18:47.112] [TORRE       ] AUTORIZADO DESPEGUE: IBE-001
+[19:18:47.113] [IBE-003     ] IBE-003: Embarque finalizado. Solicitando salida.
+[19:18:47.113] [TORRE       ] Recibida petición: BOARDED [IBE-003]
+[19:18:47.116] [IBE-001     ] IBE-001: Despegando por Pista P1...
+[19:18:47.121] [TORRE       ] ESPERA ATERRIZAJE: IBE-008
+[19:18:47.123] [IBE-011     ] IBE-011: Solicitando pista y puerta...
+[19:18:47.124] [TORRE       ] Recibida petición: LANDING [IBE-011]
+[19:18:47.145] [TORRE       ] Puerta liberada por IBE-002
+[19:18:47.145] [TORRE       ] RESUMING ATERRIZAJE: IBE-007
+[19:18:47.146] [IBE-002     ] IBE-002: Solicitando pista para despegue...
+[19:18:47.146] [TORRE       ] Recibida petición: TAKEOFF [IBE-002]
+[19:18:47.150] [IBE-007     ] IBE-007: Aterrizando en Pista P2...
+[19:18:47.222] [IBE-001     ] IBE-001: DEPARTED. Vuelo finalizado.
+[19:18:47.222] [TORRE       ] Recibida petición: DEPARTED [IBE-001]
+[19:18:47.222] [IBE-012     ] IBE-012: Solicitando pista y puerta...
+[19:18:47.222] [TORRE       ] Recibida petición: LANDING [IBE-012]
+[19:18:47.252] [IBE-007     ] IBE-007: Aterrizado. Liberando pista y yendo a Puerta G2
+[19:18:47.252] [TORRE       ] Recibida petición: LANDED [IBE-007]
+[19:18:47.326] [IBE-013     ] IBE-013: Solicitando pista y puerta...
+[19:18:47.326] [TORRE       ] Recibida petición: LANDING [IBE-013]
+[19:18:47.418] [TORRE       ] ESPERA ATERRIZAJE: IBE-009
+[19:18:47.422] [TORRE       ] Pista liberada por IBE-006
+[19:18:47.422] [IBE-006     ] IBE-006: En puerta Puerta G1. Subiendo Pasajero PAX-IBE-006
+[19:18:47.422] [TORRE       ] Recibida petición: BOARDING [IBE-006]
+[19:18:47.429] [IBE-014     ] IBE-014: Solicitando pista y puerta...
+[19:18:47.430] [TORRE       ] Recibida petición: LANDING [IBE-014]
+[19:18:47.447] [TORRE       ] ESPERA ATERRIZAJE: IBE-010
+[19:18:47.506] [TORRE       ] Puerta liberada por IBE-003
+[19:18:47.506] [TORRE       ] RESUMING ATERRIZAJE: IBE-008
+[19:18:47.507] [IBE-004     ] IBE-004: Embarque finalizado. Solicitando salida.
+[19:18:47.507] [TORRE       ] Recibida petición: BOARDED [IBE-004]
+[19:18:47.508] [IBE-003     ] IBE-003: Solicitando pista para despegue...
+[19:18:47.508] [TORRE       ] Recibida petición: TAKEOFF [IBE-003]
+[19:18:47.509] [IBE-008     ] IBE-008: Aterrizando en Pista P3...
+[19:18:47.530] [IBE-015     ] IBE-015: Solicitando pista y puerta...
+[19:18:47.610] [IBE-008     ] IBE-008: Aterrizado. Liberando pista y yendo a Puerta G3
+[19:18:47.617] [IBE-005     ] IBE-005: Embarque finalizado. Solicitando salida.
+[19:18:47.617] [TORRE       ] Recibida petición: BOARDED [IBE-005]
+[19:18:47.618] [TORRE       ] ESPERA ATERRIZAJE: IBE-011
+[19:18:47.631] [IBE-016     ] IBE-016: Solicitando pista y puerta...
+[19:18:47.718] [TORRE       ] ESPERA DESPEGUE: IBE-002
+[19:18:47.723] [TORRE       ] IBE-001 DEPARTED.
+[19:18:47.723] [TORRE       ] RESUMING DESPEGUE: IBE-002
+[19:18:47.724] [IBE-002     ] IBE-002: Despegando por Pista P1...
+[19:18:47.732] [TORRE       ] Recibida petición: LANDING [IBE-015]
+[19:18:47.733] [IBE-017     ] IBE-017: Solicitando pista y puerta...
+[19:18:47.733] [TORRE       ] Recibida petición: LANDING [IBE-017]
+[19:18:47.749] [TORRE       ] ESPERA ATERRIZAJE: IBE-012
+[19:18:47.808] [TORRE       ] Pista liberada por IBE-007
+[19:18:47.809] [IBE-007     ] IBE-007: En puerta Puerta G2. Subiendo Pasajero PAX-IBE-007
+[19:18:47.809] [TORRE       ] Recibida petición: BOARDING [IBE-007]
+[19:18:47.813] [TORRE       ] Recibida petición: LANDED [IBE-008]
+[19:18:47.825] [IBE-002     ] IBE-002: DEPARTED. Vuelo finalizado.
+[19:18:47.835] [IBE-018     ] IBE-018: Solicitando pista y puerta...
+[19:18:47.919] [TORRE       ] ESPERA ATERRIZAJE: IBE-013
+[19:18:47.938] [IBE-019     ] IBE-019: Solicitando pista y puerta...
+[19:18:47.938] [TORRE       ] Recibida petición: LANDING [IBE-019]
+[19:18:48.024] [TORRE       ] ESPERA ATERRIZAJE: IBE-014
+[19:18:48.026] [TORRE       ] Recibida petición: DEPARTED [IBE-002]
+[19:18:48.035] [TORRE       ] Recibida petición: LANDING [IBE-016]
+[19:18:48.041] [IBE-020     ] IBE-020: Solicitando pista y puerta...
+[19:18:48.051] [TORRE       ] Puerta liberada por IBE-004
+[19:18:48.051] [TORRE       ] RESUMING ATERRIZAJE: IBE-009
+[19:18:48.053] [IBE-004     ] IBE-004: Solicitando pista para despegue...
+[19:18:48.053] [TORRE       ] Recibida petición: TAKEOFF [IBE-004]
+[19:18:48.053] [IBE-009     ] IBE-009: Aterrizando en Pista P2...
+[19:18:48.109] [TORRE       ] ESPERA DESPEGUE: IBE-003
+[19:18:48.155] [IBE-009     ] IBE-009: Aterrizado. Liberando pista y yendo a Puerta G4
+[19:18:48.156] [TORRE       ] Recibida petición: LANDED [IBE-009]
+[19:18:48.219] [TORRE       ] Puerta liberada por IBE-005
+[19:18:48.220] [IBE-005     ] IBE-005: Solicitando pista para despegue...
+[19:18:48.220] [TORRE       ] Recibida petición: TAKEOFF [IBE-005]
+[19:18:48.320] [TORRE       ] ESPERA ATERRIZAJE: IBE-015
+[19:18:48.320] [IBE-006     ] IBE-006: Embarque finalizado. Solicitando salida.
+[19:18:48.320] [TORRE       ] Recibida petición: BOARDED [IBE-006]
+[19:18:48.325] [TORRE       ] ESPERA ATERRIZAJE: IBE-017
+[19:18:48.410] [TORRE       ] Pista liberada por IBE-008
+[19:18:48.410] [TORRE       ] RESUMING ATERRIZAJE: IBE-010
+[19:18:48.411] [IBE-008     ] IBE-008: En puerta Puerta G3. Subiendo Pasajero PAX-IBE-008
+[19:18:48.411] [TORRE       ] Recibida petición: BOARDING [IBE-008]
+[19:18:48.412] [IBE-010     ] IBE-010: Aterrizando en Pista P3...
+[19:18:48.438] [TORRE       ] Recibida petición: LANDING [IBE-018]
+[19:18:48.445] [TORRE       ] Recibida petición: LANDING [IBE-020]
+[19:18:48.512] [IBE-010     ] IBE-010: Aterrizado. Liberando pista y yendo a Puerta G5
+[19:18:48.520] [TORRE       ] ESPERA ATERRIZAJE: IBE-019
+[19:18:48.621] [TORRE       ] IBE-002 DEPARTED.
+[19:18:48.621] [TORRE       ] RESUMING DESPEGUE: IBE-003
+[19:18:48.622] [IBE-003     ] IBE-003: Despegando por Pista P1...
+[19:18:48.626] [TORRE       ] ESPERA ATERRIZAJE: IBE-016
+[19:18:48.652] [TORRE       ] ESPERA DESPEGUE: IBE-004
+[19:18:48.652] [IBE-007     ] IBE-007: Embarque finalizado. Solicitando salida.
+[19:18:48.653] [TORRE       ] Recibida petición: BOARDED [IBE-007]
+[19:18:48.711] [TORRE       ] Pista liberada por IBE-009
+[19:18:48.711] [TORRE       ] RESUMING DESPEGUE: IBE-004
+[19:18:48.712] [IBE-009     ] IBE-009: En puerta Puerta G4. Subiendo Pasajero PAX-IBE-009
+[19:18:48.712] [TORRE       ] Recibida petición: BOARDING [IBE-009]
+[19:18:48.712] [IBE-004     ] IBE-004: Despegando por Pista P2...
+[19:18:48.714] [TORRE       ] Recibida petición: LANDED [IBE-010]
+[19:18:48.723] [IBE-003     ] IBE-003: DEPARTED. Vuelo finalizado.
+[19:18:48.724] [TORRE       ] Recibida petición: DEPARTED [IBE-003]
+[19:18:48.815] [IBE-004     ] IBE-004: DEPARTED. Vuelo finalizado.
+[19:18:48.815] [TORRE       ] Recibida petición: DEPARTED [IBE-004]
+[19:18:48.821] [TORRE       ] ESPERA DESPEGUE: IBE-005
+[19:18:48.922] [TORRE       ] Puerta liberada por IBE-006
+[19:18:48.923] [IBE-006     ] IBE-006: Solicitando pista para despegue...
+[19:18:48.923] [TORRE       ] Recibida petición: TAKEOFF [IBE-006]
+[19:18:48.955] [TORRE       ] ESPERA ATERRIZAJE: IBE-018
+[19:18:49.011] [TORRE       ] ESPERA ATERRIZAJE: IBE-020
+[19:18:49.122] [TORRE       ] Puerta liberada por IBE-007
+[19:18:49.123] [IBE-007     ] IBE-007: Solicitando pista para despegue...
+[19:18:49.123] [TORRE       ] Recibida petición: TAKEOFF [IBE-007]
+[19:18:49.228] [TORRE       ] Pista liberada por IBE-010
+[19:18:49.228] [TORRE       ] RESUMING ATERRIZAJE: IBE-011
+[19:18:49.228] [IBE-008     ] IBE-008: Embarque finalizado. Solicitando salida.
+[19:18:49.228] [TORRE       ] Recibida petición: BOARDED [IBE-008]
+[19:18:49.229] [IBE-010     ] IBE-010: En puerta Puerta G5. Subiendo Pasajero PAX-IBE-010
+[19:18:49.229] [TORRE       ] Recibida petición: BOARDING [IBE-010]
+[19:18:49.229] [IBE-011     ] IBE-011: Aterrizando en Pista P3...
+[19:18:49.256] [TORRE       ] IBE-003 DEPARTED.
+[19:18:49.256] [TORRE       ] RESUMING ATERRIZAJE: IBE-012
+[19:18:49.257] [IBE-012     ] IBE-012: Aterrizando en Pista P1...
+[19:18:49.313] [TORRE       ] IBE-004 DEPARTED.
+[19:18:49.313] [TORRE       ] RESUMING DESPEGUE: IBE-005
+[19:18:49.314] [IBE-005     ] IBE-005: Despegando por Pista P2...
+[19:18:49.331] [IBE-011     ] IBE-011: Aterrizado. Liberando pista y yendo a Puerta G1
+[19:18:49.332] [TORRE       ] Recibida petición: LANDED [IBE-011]
+[19:18:49.359] [IBE-012     ] IBE-012: Aterrizado. Liberando pista y yendo a Puerta G2
+[19:18:49.360] [TORRE       ] Recibida petición: LANDED [IBE-012]
+[19:18:49.415] [IBE-005     ] IBE-005: DEPARTED. Vuelo finalizado.
+[19:18:49.415] [TORRE       ] Recibida petición: DEPARTED [IBE-005]
+[19:18:49.424] [TORRE       ] ESPERA DESPEGUE: IBE-006
+[19:18:49.523] [TORRE       ] ESPERA DESPEGUE: IBE-007
+[19:18:49.523] [IBE-009     ] IBE-009: Embarque finalizado. Solicitando salida.
+[19:18:49.523] [TORRE       ] Recibida petición: BOARDED [IBE-009]
+[19:18:49.529] [TORRE       ] Puerta liberada por IBE-008
+[19:18:49.530] [IBE-008     ] IBE-008: Solicitando pista para despegue...
+[19:18:49.530] [TORRE       ] Recibida petición: TAKEOFF [IBE-008]
+[19:18:49.614] [TORRE       ] Pista liberada por IBE-011
+[19:18:49.614] [TORRE       ] RESUMING ATERRIZAJE: IBE-013
+[19:18:49.615] [IBE-011     ] IBE-011: En puerta Puerta G1. Subiendo Pasajero PAX-IBE-011
+[19:18:49.615] [TORRE       ] Recibida petición: BOARDING [IBE-011]
+[19:18:49.615] [IBE-013     ] IBE-013: Aterrizando en Pista P3...
+[19:18:49.716] [IBE-013     ] IBE-013: Aterrizado. Liberando pista y yendo a Puerta G3
+[19:18:49.716] [TORRE       ] Recibida petición: LANDED [IBE-013]
+[19:18:49.725] [TORRE       ] Pista liberada por IBE-012
+[19:18:49.725] [TORRE       ] RESUMING DESPEGUE: IBE-006
+[19:18:49.726] [IBE-012     ] IBE-012: En puerta Puerta G2. Subiendo Pasajero PAX-IBE-012
+[19:18:49.726] [TORRE       ] Recibida petición: BOARDING [IBE-012]
+[19:18:49.726] [IBE-006     ] IBE-006: Despegando por Pista P1...
+[19:18:49.824] [TORRE       ] IBE-005 DEPARTED.
+[19:18:49.824] [TORRE       ] RESUMING DESPEGUE: IBE-007
+[19:18:49.824] [IBE-007     ] IBE-007: Despegando por Pista P2...
+[19:18:49.827] [IBE-006     ] IBE-006: DEPARTED. Vuelo finalizado.
+[19:18:49.828] [TORRE       ] Recibida petición: DEPARTED [IBE-006]
+[19:18:49.829] [TORRE       ] Puerta liberada por IBE-009
+[19:18:49.829] [IBE-009     ] IBE-009: Solicitando pista para despegue...
+[19:18:49.829] [TORRE       ] Recibida petición: TAKEOFF [IBE-009]
+[19:18:49.858] [TORRE       ] ESPERA DESPEGUE: IBE-008
+[19:18:49.858] [IBE-010     ] IBE-010: Embarque finalizado. Solicitando salida.
+[19:18:49.859] [TORRE       ] Recibida petición: BOARDED [IBE-010]
+[19:18:49.927] [IBE-007     ] IBE-007: DEPARTED. Vuelo finalizado.
+[19:18:49.927] [TORRE       ] Recibida petición: DEPARTED [IBE-007]
+[19:18:50.028] [TORRE       ] Pista liberada por IBE-013
+[19:18:50.028] [TORRE       ] RESUMING ATERRIZAJE: IBE-014
+[19:18:50.029] [IBE-013     ] IBE-013: En puerta Puerta G3. Subiendo Pasajero PAX-IBE-013
+[19:18:50.029] [TORRE       ] Recibida petición: BOARDING [IBE-013]
+[19:18:50.029] [IBE-014     ] IBE-014: Aterrizando en Pista P3...
+[19:18:50.130] [TORRE       ] IBE-006 DEPARTED.
+[19:18:50.130] [TORRE       ] RESUMING DESPEGUE: IBE-008
+[19:18:50.130] [IBE-014     ] IBE-014: Aterrizado. Liberando pista y yendo a Puerta G4
+[19:18:50.130] [TORRE       ] Recibida petición: LANDED [IBE-014]
+[19:18:50.131] [IBE-008     ] IBE-008: Despegando por Pista P1...
+[19:18:50.159] [TORRE       ] ESPERA DESPEGUE: IBE-009
+[19:18:50.216] [TORRE       ] Puerta liberada por IBE-010
+[19:18:50.216] [IBE-011     ] IBE-011: Embarque finalizado. Solicitando salida.
+[19:18:50.216] [TORRE       ] Recibida petición: BOARDED [IBE-011]
+[19:18:50.217] [IBE-010     ] IBE-010: Solicitando pista para despegue...
+[19:18:50.217] [TORRE       ] Recibida petición: TAKEOFF [IBE-010]
+[19:18:50.232] [IBE-008     ] IBE-008: DEPARTED. Vuelo finalizado.
+[19:18:50.232] [TORRE       ] Recibida petición: DEPARTED [IBE-008]
+[19:18:50.329] [TORRE       ] IBE-007 DEPARTED.
+[19:18:50.329] [TORRE       ] RESUMING ATERRIZAJE: IBE-015
+[19:18:50.330] [IBE-015     ] IBE-015: Aterrizando en Pista P2...
+[19:18:50.426] [IBE-012     ] IBE-012: Embarque finalizado. Solicitando salida.
+[19:18:50.427] [TORRE       ] Recibida petición: BOARDED [IBE-012]
+[19:18:50.431] [TORRE       ] Pista liberada por IBE-014
+[19:18:50.431] [TORRE       ] RESUMING DESPEGUE: IBE-009
+[19:18:50.431] [IBE-015     ] IBE-015: Aterrizado. Liberando pista y yendo a Puerta G5
+[19:18:50.431] [TORRE       ] Recibida petición: LANDED [IBE-015]
+[19:18:50.432] [IBE-009     ] IBE-009: Despegando por Pista P3...
+[19:18:50.433] [IBE-014     ] IBE-014: En puerta Puerta G4. Subiendo Pasajero PAX-IBE-014
+[19:18:50.433] [TORRE       ] Recibida petición: BOARDING [IBE-014]
+[19:18:50.461] [TORRE       ] Puerta liberada por IBE-011
+[19:18:50.461] [IBE-011     ] IBE-011: Solicitando pista para despegue...
+[19:18:50.462] [TORRE       ] Recibida petición: TAKEOFF [IBE-011]
+[19:18:50.516] [TORRE       ] ESPERA DESPEGUE: IBE-010
+[19:18:50.533] [IBE-009     ] IBE-009: DEPARTED. Vuelo finalizado.
+[19:18:50.533] [TORRE       ] Recibida petición: DEPARTED [IBE-009]
+[19:18:50.629] [TORRE       ] IBE-008 DEPARTED.
+[19:18:50.629] [TORRE       ] RESUMING ATERRIZAJE: IBE-017
+[19:18:50.630] [IBE-017     ] IBE-017: Aterrizando en Pista P1...
+[19:18:50.726] [TORRE       ] Puerta liberada por IBE-012
+[19:18:50.726] [IBE-013     ] IBE-013: Embarque finalizado. Solicitando salida.
+[19:18:50.727] [TORRE       ] Recibida petición: BOARDED [IBE-013]
+[19:18:50.727] [IBE-012     ] IBE-012: Solicitando pista para despegue...
+[19:18:50.727] [TORRE       ] Recibida petición: TAKEOFF [IBE-012]
+[19:18:50.731] [TORRE       ] Pista liberada por IBE-015
+[19:18:50.731] [TORRE       ] RESUMING ATERRIZAJE: IBE-019
+[19:18:50.731] [IBE-017     ] IBE-017: Aterrizado. Liberando pista y yendo a Puerta G1
+[19:18:50.732] [TORRE       ] Recibida petición: LANDED [IBE-017]
+[19:18:50.732] [IBE-015     ] IBE-015: En puerta Puerta G5. Subiendo Pasajero PAX-IBE-015
+[19:18:50.732] [TORRE       ] Recibida petición: BOARDING [IBE-015]
+[19:18:50.733] [IBE-019     ] IBE-019: Aterrizando en Pista P2...
+[19:18:50.818] [TORRE       ] ESPERA DESPEGUE: IBE-011
+[19:18:50.834] [IBE-019     ] IBE-019: Aterrizado. Liberando pista y yendo a Puerta G2
+[19:18:50.834] [TORRE       ] Recibida petición: LANDED [IBE-019]
+[19:18:50.930] [TORRE       ] IBE-009 DEPARTED.
+[19:18:50.930] [TORRE       ] RESUMING DESPEGUE: IBE-010
+[19:18:50.930] [IBE-010     ] IBE-010: Despegando por Pista P3...
+[19:18:51.027] [TORRE       ] Puerta liberada por IBE-013
+[19:18:51.027] [IBE-013     ] IBE-013: Solicitando pista para despegue...
+[19:18:51.027] [TORRE       ] Recibida petición: TAKEOFF [IBE-013]
+[19:18:51.032] [TORRE       ] ESPERA DESPEGUE: IBE-012
+[19:18:51.032] [IBE-010     ] IBE-010: DEPARTED. Vuelo finalizado.
+[19:18:51.032] [TORRE       ] Recibida petición: DEPARTED [IBE-010]
+[19:18:51.062] [TORRE       ] Pista liberada por IBE-017
+[19:18:51.062] [TORRE       ] RESUMING ATERRIZAJE: IBE-016
+[19:18:51.062] [IBE-014     ] IBE-014: Embarque finalizado. Solicitando salida.
+[19:18:51.062] [TORRE       ] Recibida petición: BOARDED [IBE-014]
+[19:18:51.063] [IBE-017     ] IBE-017: En puerta Puerta G1. Subiendo Pasajero PAX-IBE-017
+[19:18:51.063] [TORRE       ] Recibida petición: BOARDING [IBE-017]
+[19:18:51.063] [IBE-016     ] IBE-016: Aterrizando en Pista P1...
+[19:18:51.164] [IBE-016     ] IBE-016: Aterrizado. Liberando pista y yendo a Puerta G3
+[19:18:51.164] [TORRE       ] Recibida petición: LANDED [IBE-016]
+[19:18:51.231] [TORRE       ] Pista liberada por IBE-019
+[19:18:51.231] [TORRE       ] RESUMING DESPEGUE: IBE-011
+[19:18:51.231] [IBE-019     ] IBE-019: En puerta Puerta G2. Subiendo Pasajero PAX-IBE-019
+[19:18:51.231] [TORRE       ] Recibida petición: BOARDING [IBE-019]
+[19:18:51.232] [IBE-011     ] IBE-011: Despegando por Pista P2...
+[19:18:51.328] [TORRE       ] ESPERA DESPEGUE: IBE-013
+[19:18:51.333] [TORRE       ] IBE-010 DEPARTED.
+[19:18:51.333] [TORRE       ] RESUMING DESPEGUE: IBE-012
+[19:18:51.333] [IBE-011     ] IBE-011: DEPARTED. Vuelo finalizado.
+[19:18:51.333] [TORRE       ] Recibida petición: DEPARTED [IBE-011]
+[19:18:51.334] [IBE-012     ] IBE-012: Despegando por Pista P3...
+[19:18:51.363] [TORRE       ] Puerta liberada por IBE-014
+[19:18:51.364] [IBE-014     ] IBE-014: Solicitando pista para despegue...
+[19:18:51.364] [TORRE       ] Recibida petición: TAKEOFF [IBE-014]
+[19:18:51.419] [IBE-015     ] IBE-015: Embarque finalizado. Solicitando salida.
+[19:18:51.419] [TORRE       ] Recibida petición: BOARDED [IBE-015]
+[19:18:51.435] [IBE-012     ] IBE-012: DEPARTED. Vuelo finalizado.
+[19:18:51.435] [TORRE       ] Recibida petición: DEPARTED [IBE-012]
+[19:18:51.532] [TORRE       ] Pista liberada por IBE-016
+[19:18:51.532] [TORRE       ] RESUMING ATERRIZAJE: IBE-018
+[19:18:51.532] [IBE-016     ] IBE-016: En puerta Puerta G3. Subiendo Pasajero PAX-IBE-016
+[19:18:51.533] [TORRE       ] Recibida petición: BOARDING [IBE-016]
+[19:18:51.533] [IBE-018     ] IBE-018: Aterrizando en Pista P1...
+[19:18:51.633] [TORRE       ] IBE-011 DEPARTED.
+[19:18:51.633] [TORRE       ] RESUMING DESPEGUE: IBE-013
+[19:18:51.633] [IBE-013     ] IBE-013: Despegando por Pista P2...
+[19:18:51.636] [IBE-018     ] IBE-018: Aterrizado. Liberando pista y yendo a Puerta G4
+[19:18:51.636] [TORRE       ] Recibida petición: LANDED [IBE-018]
+[19:18:51.663] [TORRE       ] ESPERA DESPEGUE: IBE-014
+[19:18:51.720] [TORRE       ] Puerta liberada por IBE-015
+[19:18:51.720] [IBE-017     ] IBE-017: Embarque finalizado. Solicitando salida.
+[19:18:51.720] [TORRE       ] Recibida petición: BOARDED [IBE-017]
+[19:18:51.721] [IBE-015     ] IBE-015: Solicitando pista para despegue...
+[19:18:51.721] [TORRE       ] Recibida petición: TAKEOFF [IBE-015]
+[19:18:51.735] [IBE-013     ] IBE-013: DEPARTED. Vuelo finalizado.
+[19:18:51.735] [TORRE       ] Recibida petición: DEPARTED [IBE-013]
+[19:18:51.832] [TORRE       ] IBE-012 DEPARTED.
+[19:18:51.832] [TORRE       ] RESUMING ATERRIZAJE: IBE-020
+[19:18:51.832] [IBE-020     ] IBE-020: Aterrizando en Pista P3...
+[19:18:51.931] [IBE-019     ] IBE-019: Embarque finalizado. Solicitando salida.
+[19:18:51.931] [TORRE       ] Recibida petición: BOARDED [IBE-019]
+[19:18:51.934] [TORRE       ] Pista liberada por IBE-018
+[19:18:51.934] [TORRE       ] RESUMING DESPEGUE: IBE-014
+[19:18:51.934] [IBE-020     ] IBE-020: Aterrizado. Liberando pista y yendo a Puerta G5
+[19:18:51.934] [TORRE       ] Recibida petición: LANDED [IBE-020]
+[19:18:51.935] [IBE-018     ] IBE-018: En puerta Puerta G4. Subiendo Pasajero PAX-IBE-018
+[19:18:51.935] [TORRE       ] Recibida petición: BOARDING [IBE-018]
+[19:18:51.936] [IBE-014     ] IBE-014: Despegando por Pista P1...
+[19:18:51.964] [TORRE       ] Puerta liberada por IBE-017
+[19:18:51.965] [IBE-017     ] IBE-017: Solicitando pista para despegue...
+[19:18:51.965] [TORRE       ] Recibida petición: TAKEOFF [IBE-017]
+[19:18:52.023] [TORRE       ] ESPERA DESPEGUE: IBE-015
+[19:18:52.038] [IBE-014     ] IBE-014: DEPARTED. Vuelo finalizado.
+[19:18:52.038] [TORRE       ] Recibida petición: DEPARTED [IBE-014]
+[19:18:52.133] [TORRE       ] IBE-013 DEPARTED.
+[19:18:52.133] [TORRE       ] RESUMING DESPEGUE: IBE-015
+[19:18:52.133] [IBE-015     ] IBE-015: Despegando por Pista P2...
+[19:18:52.232] [TORRE       ] Puerta liberada por IBE-019
+[19:18:52.232] [IBE-016     ] IBE-016: Embarque finalizado. Solicitando salida.
+[19:18:52.232] [TORRE       ] Recibida petición: BOARDED [IBE-016]
+[19:18:52.233] [IBE-019     ] IBE-019: Solicitando pista para despegue...
+[19:18:52.233] [TORRE       ] Recibida petición: TAKEOFF [IBE-019]
+[19:18:52.235] [TORRE       ] Pista liberada por IBE-020
+[19:18:52.235] [IBE-015     ] IBE-015: DEPARTED. Vuelo finalizado.
+[19:18:52.235] [TORRE       ] Recibida petición: DEPARTED [IBE-015]
+[19:18:52.236] [IBE-020     ] IBE-020: En puerta Puerta G5. Subiendo Pasajero PAX-IBE-020
+[19:18:52.236] [TORRE       ] Recibida petición: BOARDING [IBE-020]
+[19:18:52.325] [TORRE       ] AUTORIZADO DESPEGUE: IBE-017
+[19:18:52.330] [IBE-017     ] IBE-017: Despegando por Pista P3...
+[19:18:52.431] [IBE-017     ] IBE-017: DEPARTED. Vuelo finalizado.
+[19:18:52.431] [TORRE       ] Recibida petición: DEPARTED [IBE-017]
+[19:18:52.433] [TORRE       ] IBE-014 DEPARTED.
+[19:18:52.533] [TORRE       ] Puerta liberada por IBE-016
+[19:18:52.533] [IBE-016     ] IBE-016: Solicitando pista para despegue...
+[19:18:52.533] [TORRE       ] Recibida petición: TAKEOFF [IBE-016]
+[19:18:52.536] [TORRE       ] AUTORIZADO DESPEGUE: IBE-019
+[19:18:52.536] [IBE-019     ] IBE-019: Despegando por Pista P1...
+[19:18:52.565] [TORRE       ] IBE-015 DEPARTED.
+[19:18:52.566] [IBE-018     ] IBE-018: Embarque finalizado. Solicitando salida.
+[19:18:52.566] [TORRE       ] Recibida petición: BOARDED [IBE-018]
+[19:18:52.638] [IBE-019     ] IBE-019: DEPARTED. Vuelo finalizado.
+[19:18:52.639] [TORRE       ] Recibida petición: DEPARTED [IBE-019]
+[19:18:52.735] [TORRE       ] IBE-017 DEPARTED.
+[19:18:52.834] [TORRE       ] AUTORIZADO DESPEGUE: IBE-016
+[19:18:52.834] [IBE-016     ] IBE-016: Despegando por Pista P2...
+[19:18:52.836] [TORRE       ] Puerta liberada por IBE-018
+[19:18:52.836] [IBE-018     ] IBE-018: Solicitando pista para despegue...
+[19:18:52.836] [TORRE       ] Recibida petición: TAKEOFF [IBE-018]
+[19:18:52.865] [TORRE       ] IBE-019 DEPARTED.
+[19:18:52.927] [TORRE       ] AUTORIZADO DESPEGUE: IBE-018
+[19:18:52.927] [IBE-020     ] IBE-020: Embarque finalizado. Solicitando salida.
+[19:18:52.928] [TORRE       ] Recibida petición: BOARDED [IBE-020]
+[19:18:52.928] [IBE-018     ] IBE-018: Despegando por Pista P1...
+[19:18:52.935] [IBE-016     ] IBE-016: DEPARTED. Vuelo finalizado.
+[19:18:52.935] [TORRE       ] Recibida petición: DEPARTED [IBE-016]
+[19:18:53.029] [IBE-018     ] IBE-018: DEPARTED. Vuelo finalizado.
+[19:18:53.029] [TORRE       ] Recibida petición: DEPARTED [IBE-018]
+[19:18:53.036] [TORRE       ] Puerta liberada por IBE-020
+[19:18:53.037] [IBE-020     ] IBE-020: Solicitando pista para despegue...
+[19:18:53.037] [TORRE       ] Recibida petición: TAKEOFF [IBE-020]
+[19:18:53.135] [TORRE       ] IBE-016 DEPARTED.
+[19:18:53.136] [TORRE       ] IBE-018 DEPARTED.
+[19:18:53.166] [TORRE       ] AUTORIZADO DESPEGUE: IBE-020
+[19:18:53.167] [IBE-020     ] IBE-020: Despegando por Pista P1...
+[19:18:53.270] [IBE-020     ] IBE-020: DEPARTED. Vuelo finalizado.
+[19:18:53.270] [TORRE       ] Recibida petición: DEPARTED [IBE-020]
+[19:18:53.270] [TORRE       ] IBE-020 DEPARTED.
+
+====================================================================
+   FIN DE LA SIMULACIÓN
+====================================================================
