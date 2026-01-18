@@ -1,0 +1,192 @@
+====================================================================
+   AERON AIRPORT SIMULATOR - BITÁCORA DE VUELO
+====================================================================
+ Fecha inicio: Sun Jan 18 19:56:47 CET 2026
+ Modo:         SEQUENTIAL
+ Configuración: 20 Aviones | 3 Pistas | 5 Puertas
+====================================================================
+
+[19:56:48.076] [IBE-001     ] IBE-001: LANDING_REQUEST
+[19:56:48.136] [TORRE       ] Secuencial: Procesando LANDING de IBE-001
+[19:56:48.172] [IBE-002     ] IBE-002: LANDING_REQUEST
+[19:56:48.225] [TORRE       ] Secuencial: Procesando LANDING de IBE-002
+[19:56:48.275] [IBE-003     ] IBE-003: LANDING_REQUEST
+[19:56:48.290] [TORRE       ] Secuencial: Procesando LANDED de IBE-001
+[19:56:48.342] [TORRE       ] Secuencial: Procesando LANDING de IBE-003
+[19:56:48.379] [IBE-004     ] IBE-004: LANDING_REQUEST
+[19:56:48.393] [TORRE       ] Secuencial: Procesando BOARDING de IBE-001
+[19:56:48.393] [IBE-001     ] IBE-001: Subiendo Pasajero PAX-IBE-001
+[19:56:48.444] [TORRE       ] Secuencial: Procesando LANDED de IBE-002
+[19:56:48.478] [IBE-005     ] IBE-005: LANDING_REQUEST
+[19:56:48.496] [TORRE       ] Secuencial: Procesando LANDING de IBE-004
+[19:56:48.548] [TORRE       ] Secuencial: Procesando LANDED de IBE-003
+[19:56:48.584] [IBE-006     ] IBE-006: LANDING_REQUEST
+[19:56:48.600] [TORRE       ] Secuencial: Procesando BOARDING de IBE-002
+[19:56:48.600] [IBE-002     ] IBE-002: Subiendo Pasajero PAX-IBE-002
+[19:56:48.650] [TORRE       ] Secuencial: Procesando LANDING de IBE-005
+[19:56:48.679] [IBE-007     ] IBE-007: LANDING_REQUEST
+[19:56:48.703] [TORRE       ] Secuencial: Procesando BOARDING de IBE-003
+[19:56:48.705] [IBE-003     ] IBE-003: Subiendo Pasajero PAX-IBE-003
+[19:56:48.755] [TORRE       ] Secuencial: Procesando LANDING de IBE-006
+[19:56:48.784] [IBE-008     ] IBE-008: LANDING_REQUEST
+[19:56:48.807] [TORRE       ] Secuencial: Procesando LANDED de IBE-004
+[19:56:48.858] [TORRE       ] Secuencial: Procesando LANDING de IBE-007
+[19:56:48.910] [TORRE       ] Secuencial: Procesando BOARDED de IBE-001
+[19:56:49.015] [IBE-009     ] IBE-009: LANDING_REQUEST
+[19:56:49.016] [TORRE       ] Secuencial: Procesando LANDED de IBE-005
+[19:56:49.070] [TORRE       ] Secuencial: Procesando LANDING de IBE-008
+[19:56:49.101] [IBE-010     ] IBE-010: LANDING_REQUEST
+[19:56:49.120] [TORRE       ] Secuencial: Procesando BOARDING de IBE-004
+[19:56:49.120] [IBE-004     ] IBE-004: Subiendo Pasajero PAX-IBE-004
+[19:56:49.124] [IBE-011     ] IBE-011: LANDING_REQUEST
+[19:56:49.173] [TORRE       ] Secuencial: Procesando LANDED de IBE-006
+[19:56:49.218] [IBE-012     ] IBE-012: LANDING_REQUEST
+[19:56:49.226] [TORRE       ] Secuencial: Procesando BOARDED de IBE-002
+[19:56:49.277] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-001
+[19:56:49.319] [IBE-013     ] IBE-013: LANDING_REQUEST
+[19:56:49.328] [TORRE       ] Secuencial: Procesando LANDED de IBE-007
+[19:56:49.379] [TORRE       ] Secuencial: Procesando BOARDED de IBE-003
+[19:56:49.433] [TORRE       ] Secuencial: Procesando BOARDING de IBE-005
+[19:56:49.433] [IBE-005     ] IBE-005: Subiendo Pasajero PAX-IBE-005
+[19:56:49.433] [IBE-014     ] IBE-014: LANDING_REQUEST
+[19:56:49.484] [TORRE       ] Secuencial: Procesando LANDING de IBE-009
+[19:56:49.525] [IBE-015     ] IBE-015: LANDING_REQUEST
+[19:56:49.534] [TORRE       ] Secuencial: Procesando LANDING de IBE-010
+[19:56:49.585] [TORRE       ] Secuencial: Procesando LANDING de IBE-011
+[19:56:49.625] [IBE-016     ] IBE-016: LANDING_REQUEST
+[19:56:49.638] [TORRE       ] Secuencial: Procesando LANDED de IBE-008
+[19:56:49.689] [TORRE       ] Secuencial: Procesando BOARDING de IBE-006
+[19:56:49.689] [IBE-006     ] IBE-006: Subiendo Pasajero PAX-IBE-006
+[19:56:49.726] [IBE-017     ] IBE-017: LANDING_REQUEST
+[19:56:49.741] [TORRE       ] Secuencial: Procesando LANDING de IBE-012
+[19:56:49.792] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-002
+[19:56:49.826] [IBE-018     ] IBE-018: LANDING_REQUEST
+[19:56:49.844] [TORRE       ] Secuencial: Procesando LANDING de IBE-013
+[19:56:49.897] [TORRE       ] Secuencial: Procesando BOARDING de IBE-007
+[19:56:49.897] [IBE-007     ] IBE-007: Subiendo Pasajero PAX-IBE-007
+[19:56:49.927] [IBE-019     ] IBE-019: LANDING_REQUEST
+[19:56:49.949] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-001
+[19:56:49.949] [TORRE       ] IBE-001 FIN DE OPERACIÓN.
+[19:56:50.001] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-003
+[19:56:50.028] [IBE-020     ] IBE-020: LANDING_REQUEST
+[19:56:50.052] [TORRE       ] Secuencial: Procesando BOARDED de IBE-004
+[19:56:50.103] [TORRE       ] Secuencial: Procesando LANDING de IBE-014
+[19:56:50.154] [TORRE       ] Secuencial: Procesando LANDING de IBE-015
+[19:56:50.205] [TORRE       ] Secuencial: Procesando LANDED de IBE-009
+[19:56:50.256] [TORRE       ] Secuencial: Procesando LANDING de IBE-016
+[19:56:50.307] [TORRE       ] Secuencial: Procesando LANDED de IBE-010
+[19:56:50.359] [TORRE       ] Secuencial: Procesando BOARDING de IBE-008
+[19:56:50.359] [IBE-008     ] IBE-008: Subiendo Pasajero PAX-IBE-008
+[19:56:50.409] [TORRE       ] Secuencial: Procesando LANDED de IBE-011
+[19:56:50.460] [TORRE       ] Secuencial: Procesando LANDING de IBE-017
+[19:56:50.511] [TORRE       ] Secuencial: Procesando BOARDED de IBE-005
+[19:56:50.563] [TORRE       ] Secuencial: Procesando LANDING de IBE-018
+[19:56:50.613] [TORRE       ] Secuencial: Procesando LANDED de IBE-012
+[19:56:50.664] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-002
+[19:56:50.664] [TORRE       ] IBE-002 FIN DE OPERACIÓN.
+[19:56:50.715] [TORRE       ] Secuencial: Procesando LANDING de IBE-019
+[19:56:50.768] [TORRE       ] Secuencial: Procesando LANDED de IBE-013
+[19:56:50.819] [TORRE       ] Secuencial: Procesando BOARDED de IBE-006
+[19:56:50.870] [TORRE       ] Secuencial: Procesando LANDING de IBE-020
+[19:56:50.921] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-004
+[19:56:50.971] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-003
+[19:56:50.971] [TORRE       ] IBE-003 FIN DE OPERACIÓN.
+[19:56:51.024] [TORRE       ] Secuencial: Procesando BOARDED de IBE-007
+[19:56:51.074] [TORRE       ] Secuencial: Procesando LANDED de IBE-014
+[19:56:51.125] [TORRE       ] Secuencial: Procesando BOARDING de IBE-009
+[19:56:51.125] [IBE-009     ] IBE-009: Subiendo Pasajero PAX-IBE-009
+[19:56:51.176] [TORRE       ] Secuencial: Procesando LANDED de IBE-015
+[19:56:51.228] [TORRE       ] Secuencial: Procesando BOARDING de IBE-010
+[19:56:51.228] [IBE-010     ] IBE-010: Subiendo Pasajero PAX-IBE-010
+[19:56:51.279] [TORRE       ] Secuencial: Procesando LANDED de IBE-016
+[19:56:51.331] [TORRE       ] Secuencial: Procesando BOARDING de IBE-011
+[19:56:51.331] [IBE-011     ] IBE-011: Subiendo Pasajero PAX-IBE-011
+[19:56:51.382] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-005
+[19:56:51.433] [TORRE       ] Secuencial: Procesando LANDED de IBE-017
+[19:56:51.483] [TORRE       ] Secuencial: Procesando BOARDING de IBE-012
+[19:56:51.483] [IBE-012     ] IBE-012: Subiendo Pasajero PAX-IBE-012
+[19:56:51.534] [TORRE       ] Secuencial: Procesando BOARDED de IBE-008
+[19:56:51.585] [TORRE       ] Secuencial: Procesando LANDED de IBE-018
+[19:56:51.636] [TORRE       ] Secuencial: Procesando BOARDING de IBE-013
+[19:56:51.636] [IBE-013     ] IBE-013: Subiendo Pasajero PAX-IBE-013
+[19:56:51.686] [TORRE       ] Secuencial: Procesando LANDED de IBE-019
+[19:56:51.738] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-006
+[19:56:51.789] [TORRE       ] Secuencial: Procesando LANDED de IBE-020
+[19:56:51.840] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-004
+[19:56:51.840] [TORRE       ] IBE-004 FIN DE OPERACIÓN.
+[19:56:51.891] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-007
+[19:56:51.942] [TORRE       ] Secuencial: Procesando BOARDING de IBE-014
+[19:56:51.942] [IBE-014     ] IBE-014: Subiendo Pasajero PAX-IBE-014
+[19:56:51.993] [TORRE       ] Secuencial: Procesando BOARDING de IBE-015
+[19:56:51.993] [IBE-015     ] IBE-015: Subiendo Pasajero PAX-IBE-015
+[19:56:52.045] [TORRE       ] Secuencial: Procesando BOARDING de IBE-016
+[19:56:52.045] [IBE-016     ] IBE-016: Subiendo Pasajero PAX-IBE-016
+[19:56:52.096] [TORRE       ] Secuencial: Procesando BOARDED de IBE-009
+[19:56:52.148] [TORRE       ] Secuencial: Procesando BOARDING de IBE-017
+[19:56:52.148] [IBE-017     ] IBE-017: Subiendo Pasajero PAX-IBE-017
+[19:56:52.199] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-005
+[19:56:52.199] [TORRE       ] IBE-005 FIN DE OPERACIÓN.
+[19:56:52.250] [TORRE       ] Secuencial: Procesando BOARDED de IBE-010
+[19:56:52.302] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-008
+[19:56:52.353] [TORRE       ] Secuencial: Procesando BOARDING de IBE-018
+[19:56:52.353] [IBE-018     ] IBE-018: Subiendo Pasajero PAX-IBE-018
+[19:56:52.403] [TORRE       ] Secuencial: Procesando BOARDED de IBE-011
+[19:56:52.454] [TORRE       ] Secuencial: Procesando BOARDING de IBE-019
+[19:56:52.454] [IBE-019     ] IBE-019: Subiendo Pasajero PAX-IBE-019
+[19:56:52.505] [TORRE       ] Secuencial: Procesando BOARDED de IBE-012
+[19:56:52.555] [TORRE       ] Secuencial: Procesando BOARDING de IBE-020
+[19:56:52.555] [IBE-020     ] IBE-020: Subiendo Pasajero PAX-IBE-020
+[19:56:52.608] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-006
+[19:56:52.608] [TORRE       ] IBE-006 FIN DE OPERACIÓN.
+[19:56:52.659] [TORRE       ] Secuencial: Procesando BOARDED de IBE-013
+[19:56:52.710] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-007
+[19:56:52.710] [TORRE       ] IBE-007 FIN DE OPERACIÓN.
+[19:56:52.762] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-009
+[19:56:52.813] [TORRE       ] Secuencial: Procesando BOARDED de IBE-014
+[19:56:52.864] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-010
+[19:56:52.915] [TORRE       ] Secuencial: Procesando BOARDED de IBE-015
+[19:56:52.967] [TORRE       ] Secuencial: Procesando BOARDED de IBE-016
+[19:56:53.019] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-008
+[19:56:53.019] [TORRE       ] IBE-008 FIN DE OPERACIÓN.
+[19:56:53.070] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-011
+[19:56:53.120] [TORRE       ] Secuencial: Procesando BOARDED de IBE-017
+[19:56:53.172] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-012
+[19:56:53.223] [TORRE       ] Secuencial: Procesando BOARDED de IBE-018
+[19:56:53.273] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-013
+[19:56:53.325] [TORRE       ] Secuencial: Procesando BOARDED de IBE-019
+[19:56:53.376] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-014
+[19:56:53.426] [TORRE       ] Secuencial: Procesando BOARDED de IBE-020
+[19:56:53.477] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-009
+[19:56:53.477] [TORRE       ] IBE-009 FIN DE OPERACIÓN.
+[19:56:53.529] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-015
+[19:56:53.580] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-010
+[19:56:53.580] [TORRE       ] IBE-010 FIN DE OPERACIÓN.
+[19:56:53.631] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-016
+[19:56:53.681] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-017
+[19:56:53.732] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-011
+[19:56:53.732] [TORRE       ] IBE-011 FIN DE OPERACIÓN.
+[19:56:53.783] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-018
+[19:56:53.834] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-012
+[19:56:53.834] [TORRE       ] IBE-012 FIN DE OPERACIÓN.
+[19:56:53.884] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-019
+[19:56:54.022] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-013
+[19:56:54.023] [TORRE       ] IBE-013 FIN DE OPERACIÓN.
+[19:56:54.074] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-020
+[19:56:54.126] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-014
+[19:56:54.126] [TORRE       ] IBE-014 FIN DE OPERACIÓN.
+[19:56:54.177] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-015
+[19:56:54.177] [TORRE       ] IBE-015 FIN DE OPERACIÓN.
+[19:56:54.228] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-016
+[19:56:54.228] [TORRE       ] IBE-016 FIN DE OPERACIÓN.
+[19:56:54.279] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-017
+[19:56:54.279] [TORRE       ] IBE-017 FIN DE OPERACIÓN.
+[19:56:54.330] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-018
+[19:56:54.330] [TORRE       ] IBE-018 FIN DE OPERACIÓN.
+[19:56:54.380] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-019
+[19:56:54.380] [TORRE       ] IBE-019 FIN DE OPERACIÓN.
+[19:56:54.431] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-020
+[19:56:54.431] [TORRE       ] IBE-020 FIN DE OPERACIÓN.
+
+====================================================================
+   FIN DE LA SIMULACIÓN
+====================================================================

@@ -1,0 +1,30 @@
+====================================================================
+   AERON AIRPORT SIMULATOR - BITÁCORA DE VUELO
+====================================================================
+ Fecha inicio: Sun Jan 18 19:56:26 CET 2026
+ Modo:         SEQUENTIAL
+ Configuración: 2 Aviones | 1 Pistas | 1 Puertas
+====================================================================
+
+[19:56:27.591] [IBE-001     ] IBE-001: LANDING_REQUEST
+[19:56:27.648] [TORRE       ] Secuencial: Procesando LANDING de IBE-001
+[19:56:27.691] [IBE-002     ] IBE-002: LANDING_REQUEST
+[19:56:27.743] [TORRE       ] Secuencial: Procesando LANDING de IBE-002
+[19:56:27.801] [TORRE       ] Secuencial: Procesando LANDED de IBE-001
+[19:56:27.854] [TORRE       ] Secuencial: Procesando BOARDING de IBE-001
+[19:56:27.854] [IBE-001     ] IBE-001: Subiendo Pasajero PAX-IBE-001
+[19:56:27.905] [TORRE       ] Secuencial: Procesando LANDED de IBE-002
+[19:56:27.957] [TORRE       ] Secuencial: Procesando BOARDING de IBE-002
+[19:56:27.957] [IBE-002     ] IBE-002: Subiendo Pasajero PAX-IBE-002
+[19:56:28.208] [TORRE       ] Secuencial: Procesando BOARDED de IBE-001
+[19:56:28.260] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-001
+[19:56:28.312] [TORRE       ] Secuencial: Procesando BOARDED de IBE-002
+[19:56:28.364] [TORRE       ] Secuencial: Procesando TAKEOFF de IBE-002
+[19:56:28.415] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-001
+[19:56:28.416] [TORRE       ] IBE-001 FIN DE OPERACIÓN.
+[19:56:28.518] [TORRE       ] Secuencial: Procesando DEPARTED de IBE-002
+[19:56:28.518] [TORRE       ] IBE-002 FIN DE OPERACIÓN.
+
+====================================================================
+   FIN DE LA SIMULACIÓN
+====================================================================

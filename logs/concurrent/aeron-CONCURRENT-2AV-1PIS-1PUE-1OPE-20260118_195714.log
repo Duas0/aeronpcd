@@ -1,0 +1,53 @@
+====================================================================
+   AERON AIRPORT SIMULATOR - BITÁCORA DE VUELO
+====================================================================
+ Fecha inicio: Sun Jan 18 19:57:14 CET 2026
+ Modo:         CONCURRENT
+ Configuración: 2 Aviones | 1 Pistas | 1 Puertas
+ Operarios:    1
+====================================================================
+
+[19:57:15.316] [IBE-001     ] IBE-001: Solicitando pista y puerta...
+[19:57:15.321] [TORRE       ] Recibida petición: LANDING [IBE-001]
+[19:57:15.321] [TORRE       ] AUTORIZADO ATERRIZAJE: IBE-001
+[19:57:15.325] [IBE-001     ] IBE-001: Aterrizando en Pista P1...
+[19:57:15.427] [IBE-001     ] IBE-001: Aterrizado. Liberando pista y yendo a Puerta G1
+[19:57:15.428] [TORRE       ] Recibida petición: LANDED [IBE-001]
+[19:57:15.443] [IBE-002     ] IBE-002: Solicitando pista y puerta...
+[19:57:15.443] [TORRE       ] Recibida petición: LANDING [IBE-002]
+[19:57:15.623] [TORRE       ] Pista liberada por IBE-001
+[19:57:15.625] [IBE-001     ] IBE-001: En puerta Puerta G1. Subiendo Pasajero PAX-IBE-001
+[19:57:15.625] [TORRE       ] Recibida petición: BOARDING [IBE-001]
+[19:57:15.931] [TORRE       ] ESPERA ATERRIZAJE: IBE-002
+[19:57:16.534] [IBE-001     ] IBE-001: Embarque finalizado. Solicitando salida.
+[19:57:16.534] [TORRE       ] Recibida petición: BOARDED [IBE-001]
+[19:57:16.534] [TORRE       ] Puerta liberada por IBE-001
+[19:57:16.534] [TORRE       ] RESUMING ATERRIZAJE: IBE-002
+[19:57:16.535] [IBE-001     ] IBE-001: Solicitando pista para despegue...
+[19:57:16.535] [TORRE       ] Recibida petición: TAKEOFF [IBE-001]
+[19:57:16.536] [IBE-002     ] IBE-002: Aterrizando en Pista P1...
+[19:57:16.639] [IBE-002     ] IBE-002: Aterrizado. Liberando pista y yendo a Puerta G1
+[19:57:16.639] [TORRE       ] Recibida petición: LANDED [IBE-002]
+[19:57:16.835] [TORRE       ] ESPERA DESPEGUE: IBE-001
+[19:57:17.137] [TORRE       ] Pista liberada por IBE-002
+[19:57:17.137] [TORRE       ] RESUMING DESPEGUE: IBE-001
+[19:57:17.138] [IBE-002     ] IBE-002: En puerta Puerta G1. Subiendo Pasajero PAX-IBE-002
+[19:57:17.138] [TORRE       ] Recibida petición: BOARDING [IBE-002]
+[19:57:17.138] [IBE-001     ] IBE-001: Despegando por Pista P1...
+[19:57:17.238] [IBE-001     ] IBE-001: DEPARTED. Vuelo finalizado.
+[19:57:17.238] [TORRE       ] Recibida petición: DEPARTED [IBE-001]
+[19:57:17.738] [TORRE       ] IBE-001 DEPARTED.
+[19:57:17.738] [IBE-002     ] IBE-002: Embarque finalizado. Solicitando salida.
+[19:57:17.738] [TORRE       ] Recibida petición: BOARDED [IBE-002]
+[19:57:18.038] [TORRE       ] Puerta liberada por IBE-002
+[19:57:18.038] [IBE-002     ] IBE-002: Solicitando pista para despegue...
+[19:57:18.040] [TORRE       ] Recibida petición: TAKEOFF [IBE-002]
+[19:57:18.339] [TORRE       ] AUTORIZADO DESPEGUE: IBE-002
+[19:57:18.340] [IBE-002     ] IBE-002: Despegando por Pista P1...
+[19:57:18.441] [IBE-002     ] IBE-002: DEPARTED. Vuelo finalizado.
+[19:57:18.441] [TORRE       ] Recibida petición: DEPARTED [IBE-002]
+[19:57:18.641] [TORRE       ] IBE-002 DEPARTED.
+
+====================================================================
+   FIN DE LA SIMULACIÓN
+====================================================================

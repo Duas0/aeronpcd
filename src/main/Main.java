@@ -14,56 +14,50 @@ import util.Ventana;
  * <p>
  * Responsabilidades:
  * <ul>
- * <li>Leer argumentos de entrada para seleccionar el modo (SEQUENTIAL /
- * CONCURRENT).</li>
+ * <li>Leer argumentos de entrada dinámicos Modo, Aviones, Pistas, Puertas,
+ * Operarios.</li>
  * <li>Configurar los parámetros iniciales de la simulación.</li>
- * <li>Validar antes de iniciar las variables necesarias
+ * <li>Validar las reglas de negocio antes de iniciar
  * ({@link AeronConfigException}).</li>
- * <li>Inicializar los sistemas del paquete util (Logger, CSV, Ventana).</li>
+ * <li>Inicializar los sistemas de soporte (Logger, CSV, Ventana).</li>
  * <li>Lanzar la simulación.</li>
  * </ul>
  * </p>
  */
 public class Main {
 
-    /**
-     * Modo por defecto si no se pasa argumento.
-     */
+    // Valores por defecto (Configuración inicial)
     private static String MODE = "CONCURRENT";
-
-    private static final int NUM_AVIONES = 20;
-    private static final int NUM_PISTAS = 3;
-    private static final int NUM_PUERTAS = 5;
-
-    /**
-     * Número de operarios en la torre 
-     */
-    private static final int NUM_OPERARIOS = 5;
+    private static int NUM_AVIONES = 20;
+    private static int NUM_PISTAS = 3;
+    private static int NUM_PUERTAS = 5;
+    private static int NUM_OPERARIOS = 5;
 
     // =============================================================
     /**
-     * Método principal.
-     *
-     * @param args Puede recibir un argumento: "SEQUENTIAL" o "CONCURRENT".
+     * Método principal. Acepta argumentos en orden: [MODO] [AVIONES] [PISTAS]
+     * [PUERTAS] [OPERARIOS]
      */
     public static void main(String[] args) {
         try {
-            // 0. Procesar Argumentos
+            // 0. Procesar Argumentos de Línea de Comandos
             procesarArgumentos(args);
 
-            // 1. Validación de reglas
+            // 1. Validación de reglas de negocio
             validarConfiguracion();
 
             // 2. Inicialización de sistemas de registro
             SimulationLogger.setup(MODE, NUM_AVIONES, NUM_PISTAS, NUM_PUERTAS, NUM_OPERARIOS);
             EstadisticasVuelo.setup();
 
-            // 3. Inicialización de Ventana
+            // 3. Inicialización de la Interfaz Gráfica
             Ventana ventana = new Ventana();
 
             System.out.println("--------------------------------------------------");
             System.out.println("INICIANDO AERON SIMULATOR");
-            System.out.println("MODO ACTIVO: " + MODE);
+            System.out.printf("MODO: %s | AVIONES: %d | PISTAS: %d | PUERTAS: %d | OPERARIOS: %s%n",
+                    MODE, NUM_AVIONES, NUM_PISTAS, NUM_PUERTAS,
+                    MODE.equals("CONCURRENT") ? NUM_OPERARIOS : "N/A");
             System.out.println("--------------------------------------------------");
 
             // 4. Ejecución según el modo seleccionado
@@ -73,7 +67,7 @@ public class Main {
                 ejecutarModoSecuencial(ventana);
             }
 
-            // 5. Registro para asegurar guardado de ficheros
+            // 5. Registro de gancho de cierre para asegurar guardado de ficheros
             Runtime.getRuntime().addShutdownHook(new Thread(() -> {
                 System.out.println("Cerrando recursos y guardando logs...");
                 SimulationLogger.close();
@@ -92,17 +86,42 @@ public class Main {
     }
 
     /**
-     * Lee y valida los argumentos de la línea de comandos.
+     * Lee y valida los argumentos de la línea de comandos. Formato esperado:
+     * java main.Main [MODO] [AVIONES] [PISTAS] [PUERTAS] [OPERARIOS]
      */
     private static void procesarArgumentos(String[] args) {
         if (args.length > 0) {
-            String input = args[0].toUpperCase();
-            if (input.equals("SEQUENTIAL") || input.equals("CONCURRENT")) {
-                MODE = input;
+            // 1. MODO
+            String inputMode = args[0].toUpperCase();
+            if (inputMode.equals("SEQUENTIAL") || inputMode.equals("CONCURRENT")) {
+                MODE = inputMode;
             } else {
-                System.out.println("Argumento no reconocido: '" + args[0] + "'.");
-                System.out.println("Usando modo por defecto: " + MODE);
-                System.out.println("Uso: java main.Main [SEQUENTIAL | CONCURRENT]");
+                System.out.println("Argumento de modo no reconocido: '" + args[0] + "'. Usando " + MODE);
+            }
+
+            try {
+                // 2. AVIONES
+                if (args.length >= 2) {
+                    NUM_AVIONES = Integer.parseInt(args[1]);
+                }
+
+                // 3. PISTAS
+                if (args.length >= 3) {
+                    NUM_PISTAS = Integer.parseInt(args[2]);
+                }
+
+                // 4. PUERTAS
+                if (args.length >= 4) {
+                    NUM_PUERTAS = Integer.parseInt(args[3]);
+                }
+
+                // 5. OPERARIOS (Solo si es concurrente, aunque se puede leer siempre)
+                if (args.length >= 5) {
+                    NUM_OPERARIOS = Integer.parseInt(args[4]);
+                }
+
+            } catch (NumberFormatException e) {
+                System.err.println("Error al leer parámetros numéricos. Usando valores por defecto.");
             }
         }
     }
@@ -115,12 +134,13 @@ public class Main {
         tower.startOperators(NUM_OPERARIOS);
 
         ventana.setTower(tower);
-        ventana.updateResources(); // Estado inicial
+        ventana.updateResources(); // Estado inicial visual
 
         for (int i = 1; i <= NUM_AVIONES; i++) {
             String planeId = String.format("IBE-%03d", i);
             Plane p = new Plane(planeId, tower, ventana);
             p.start();
+
             // Pequeña pausa para escalonar las llegadas
             try {
                 Thread.sleep(100);
@@ -157,19 +177,20 @@ public class Main {
      */
     private static void validarConfiguracion() throws AeronConfigException {
         if (NUM_AVIONES < 1) {
-            throw new AeronConfigException("Debe haber al menos 1 avión para simular.");
+            throw new AeronConfigException("Debe haber al menos 1 avión.");
         }
         if (NUM_PISTAS < 1) {
-            throw new AeronConfigException("El aeropuerto debe tener al menos 1 pista.");
+            throw new AeronConfigException("Debe haber al menos 1 pista.");
         }
         if (NUM_PUERTAS < 1) {
-            throw new AeronConfigException("El aeropuerto debe tener al menos 1 puerta de embarque.");
+            throw new AeronConfigException("Debe haber al menos 1 puerta.");
         }
-        if (NUM_OPERARIOS < 1 && MODE.equalsIgnoreCase("CONCURRENT")) {
+
+        if (MODE.equalsIgnoreCase("CONCURRENT") && NUM_OPERARIOS < 1) {
             throw new AeronConfigException("En modo concurrente debe haber al menos 1 operario.");
         }
         if (NUM_PISTAS > NUM_PUERTAS) {
-            throw new AeronConfigException("Configuración ilógica: Más pistas que puertas de embarque.");
+            throw new AeronConfigException("Configuración ilógica: Más pistas (" + NUM_PISTAS + ") que puertas (" + NUM_PUERTAS + ").");
         }
     }
 }
