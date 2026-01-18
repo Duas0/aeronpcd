@@ -31,6 +31,7 @@ Implementación: Se emplea un ReentrantReadWriteLock para maximizar el rendimien
 La maniobra de aterrizaje representa el punto crítico donde un proceso requiere la tenencia simultánea de dos recursos compartidos finitos (Pista y Puerta) para avanzar, un escenario propenso a Interbloqueos (Deadlocks) si se aplicara una reserva secuencial ("Retener y Esperar").
 
 Implementación: Se aplica una estrategia de Todo o Nada. La torre actúa como un árbitro que verifica el estado global y solo concede permiso si ambos recursos están disponibles al mismo tiempo. Si no es posible satisfacer la demanda completa, el avión no retiene ningún recurso y pasa a una cola de espera, eliminando la posibilidad de bloqueo circular del sistema.
+
 ---
 
 ##  Estructura del Proyecto
