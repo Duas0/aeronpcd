@@ -82,3 +82,7 @@ java -cp bin main.Main SEQUENTIAL
 ```bash
 java -cp bin main.Main CONCURRENT
 ```
+3. Formato esperado:
+```bash
+java -cp bin main.Main [MODO] [AVIONES] [PISTAS] [PUERTAS] [OPERARIOS]
+```
